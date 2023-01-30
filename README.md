@@ -7,4 +7,4 @@ Built a Face Recognition Attendance System using Python and Open CV library. Its
 1. Python
 2. Libraries  : Numpy, Face Recoginition, Open CV, Time
 
-Made by : Ananay Gupta
+Made by : kurra Sai Sailaja
